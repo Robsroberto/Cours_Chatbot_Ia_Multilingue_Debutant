@@ -1,0 +1,59 @@
+{
+  "slug": "chatbot-ia-multilingue-debutant",
+  "title": "Construisez votre premier chatbot IA multilingue pour le service client",
+  "description": "Apprenez, pas à pas, à créer un chatbot alimenté par l'IA capable de répondre en français, anglais et langues locales. Vous utiliserez des outils no‑code et des modèles de génération de texte pour automatiser le support client.",
+  "level": "debutant",
+  "icon": "🤖",
+  "tags": [
+    "IA",
+    "chatbot",
+    "no-code",
+    "service-client",
+    "multilingue"
+  ],
+  "price": 5000,
+  "free_chapters": 2,
+  "version": "1.0.0",
+  "chapters": [
+    {
+      "file": "01-introduction.md",
+      "title": "Introduction au chatbot IA multilingue"
+    },
+    {
+      "file": "02-concepts-de-base.md",
+      "title": "Concepts de base du NLP et du multilinguisme"
+    },
+    {
+      "file": "03-choisir-plateforme-no-code.md",
+      "title": "Sélectionner la plateforme no‑code adaptée"
+    },
+    {
+      "file": "04-creation-flux-conversation.md",
+      "title": "Concevoir le flux conversationnel"
+    },
+    {
+      "file": "05-integration-multilingue.md",
+      "title": "Intégrer la détection de langue et la traduction"
+    },
+    {
+      "file": "06-entrainer-modele-ia.md",
+      "title": "Entraîner et personnaliser le modèle IA"
+    },
+    {
+      "file": "07-test-et-optimisation.md",
+      "title": "Tester, mesurer et optimiser le chatbot"
+    },
+    {
+      "file": "08-deploiement-sur-site.md",
+      "title": "Déployer le chatbot sur votre site web et vos réseaux"
+    },
+    {
+      "file": "09-analytics-et-maintenance.md",
+      "title": "Analytics, suivi et maintenance continue"
+    },
+    {
+      "file": "10-cas-pratique-entreprise.md",
+      "title": "Projet final : déployer un chatbot pour une PME africaine"
+    }
+  ]
+}
